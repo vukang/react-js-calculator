@@ -19,6 +19,7 @@
   display: grid;
   grid-template-columns: 2fr 1fr;
   margin: 0 auto;
+  width: 68vw;
 }
 
 #num-pad {
